@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cd46e1f-98b7-48a6-8c7c-de4c3f1eb35e" name="Changes" comment="Ray tracing (graphic library) project">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/shmue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 01 for writeToImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base render test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/color render test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronaSphere.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronaSphereAdvanced.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coronaSphere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/finalTest1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/finalTest2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shadow with transparency.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereDirectional.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spherePoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereSpot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangle3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangle4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangle5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangleMove1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangleMove2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangleSpot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sphereTriangleSpot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trianglesDirectional.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trianglesPoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trianglesSphere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trianglesSpot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twoSpheres advanced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twoSpheres.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twoSpheresMirrored.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shadow with transparency.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereDirectional.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spherePoint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereSpot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleInitial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleInitialAdvanced.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleInitialAdvancedAcceleration.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleMove1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleMove2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleSpot1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphereTriangleSpot2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/AmbientLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/DirectionalLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/LightSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/PointLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/SpotLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Geometries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Intersectable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/RadialGeometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometries/Tube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitives/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitives/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitives/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitives/Ray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitives/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitives/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/ImageWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/Render.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scene/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/ImprovementsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/elements/CameraIntegrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/elements/CameraTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/elements/LightsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/elements/ReflectionRefractionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/elements/ShadowTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/CylinderTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/GeometriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/PlaneTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/PolygonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/SphereTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/geometries/TubeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/primitives/VectorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/renderer/ImageWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittests/renderer/RenderTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trianglesDirectional.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trianglesPoint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trianglesSphere.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trianglesSpot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoSpheres advanced.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoSpheres.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoSpheresMirrored.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoSpheresMirroredAdvanced.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1z7vPlUYAwPAENXVEtSCrKgZhXn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cd46e1f-98b7-48a6-8c7c-de4c3f1eb35e" name="Changes" comment="" />
+      <created>1633511918777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633511918777</updated>
+      <workItem from="1633511920880" duration="27000" />
+      <workItem from="1633512160239" duration="304000" />
+      <workItem from="1633512774349" duration="536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ray tracing (graphic library) project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ray tracing (graphic library) project" />
+  </component>
+</project>
